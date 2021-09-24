@@ -4,6 +4,14 @@ Data is from StackOverflow annual survey. Found at (https://insights.stackoverfl
 
 Goes through three different models LinearRegression, DecisionTreeRegressor, and RandomForestRegressor.
 
-![image](https://user-images.githubusercontent.com/44743228/134598041-dab407a8-817d-4f0b-b8e3-d494376a6212.png)
+#Home page
+![image](https://user-images.githubusercontent.com/44743228/134600385-4de58eba-1f4b-47b6-b202-0ff1e7f264f0.png)
 
-![image](https://user-images.githubusercontent.com/44743228/134598063-70ef5e0c-281b-4636-b302-450536e60a21.png)
+#Calculating 
+![image](https://user-images.githubusercontent.com/44743228/134600415-824fb5bd-7ad1-4568-8c96-269d4baa0c79.png)
+
+#Country Selectiojn
+![image](https://user-images.githubusercontent.com/44743228/134600446-57370490-b06c-4f48-ac2f-43a57e67c00a.png)
+
+#Data representation
+![image](https://user-images.githubusercontent.com/44743228/134600476-4bb61de7-629d-49ee-bd5d-bc7346a8709d.png)
